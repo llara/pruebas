@@ -1,8 +1,9 @@
 
+merge
 ya vamos viendo en master 3 sin recibir aun cambios de rama 3
 ops este no tiene nada en repo dos
 
-cambios hechos en rama master
+chos en rama master
 ya estoy trabajando en una tercera rama el archivo
 prueba
 en la ramauno aun este archivo esta con esas mod
