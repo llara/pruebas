@@ -1,0 +1,17 @@
+merge
+cambio en repo tres
+ya vamos viendo en master 3 sin recibir aun cambios de rama 3
+ops 
+
+chos en rama master
+
+ya estoy trabajando en una tercera rama el archivo
+prueba
+en la ramauno aun este archivo esta con esas mod
+
+hola luis
+este cambio fue hecho en la ramauno
+ahora hare el merge pa caxar k wea paso
+
+ahora estoy caxando
+
