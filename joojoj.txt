@@ -15,3 +15,5 @@ ahora hare el merge pa caxar k wea paso
 
 ahora estoy caxando
 
+aki modifike este archivo k venia del master en la rama 1
+preparando el merge
